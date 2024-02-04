@@ -42,8 +42,8 @@ Event Management Website
 ![wishlist](https://github.com/SharvariBirje/EventEase/assets/158808202/e2767127-2969-4275-8825-f32266b3c916)
 
 # Databases
-<h2>Login Table</h2><br>
+# Login Table
 ![login_table](https://github.com/SharvariBirje/EventEase/assets/158808202/3447ce04-a2d4-43b8-9db1-36f8fc3d01bd)
 
-<br><h2>Events Table</h2><br>
+# Events Table
 ![events_table](https://github.com/SharvariBirje/EventEase/assets/158808202/404685ec-0941-4d70-9353-a60e2dbc6a1c)
