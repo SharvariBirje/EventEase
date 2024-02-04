@@ -1,2 +1,1 @@
-# EventEase
-Event Management Website
+
