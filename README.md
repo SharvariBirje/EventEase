@@ -28,3 +28,22 @@ Event Management Website
 
 # Login Page
 ![login](https://github.com/SharvariBirje/EventEase/assets/158808202/0d9f8b46-b58d-49af-b56f-039ca6b6bc0b)
+
+# Register Page
+![register](https://github.com/SharvariBirje/EventEase/assets/158808202/b4105276-143c-49ef-a66f-636936b5b73f)
+
+# Home Page
+![home](https://github.com/SharvariBirje/EventEase/assets/158808202/ba8155b9-fed3-47fc-8946-2b32ef2b5849)
+
+# Event Page
+![events](https://github.com/SharvariBirje/EventEase/assets/158808202/185f8f50-a000-45e4-8ced-3729e2c8b281)
+
+# Wishlist
+![wishlist](https://github.com/SharvariBirje/EventEase/assets/158808202/e2767127-2969-4275-8825-f32266b3c916)
+
+# Databases
+<h2>Login Table</h2><br>
+![login_table](https://github.com/SharvariBirje/EventEase/assets/158808202/3447ce04-a2d4-43b8-9db1-36f8fc3d01bd)
+
+<br><h2>Events Table</h2><br>
+![events_table](https://github.com/SharvariBirje/EventEase/assets/158808202/404685ec-0941-4d70-9353-a60e2dbc6a1c)
