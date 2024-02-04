@@ -1,0 +1,83 @@
+body
+{
+    background-image: url(loginbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.full {
+	width: 80%;
+    display: grid;
+	grid-template-columns: 3fr 2fr;
+    /* margin: auto; */
+    margin: 120px 150px;
+}
+.left 
+{
+	background-image: url(login.jpg);
+    background-size: cover;
+}
+.right 
+{
+	padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+.login
+{
+    padding: 30px;
+}
+/* .register
+{
+    padding: 30px;
+} */
+.left h1
+{
+    font-size: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45%;
+    color: white;
+}
+.left p
+{
+    font-size: 28px;
+    text-align: center;
+    color: white;
+}
+.login h1
+{
+    text-align: center;
+    font-size: 70px;
+}
+/* .register h1
+{
+    text-align: center;
+    font-size: 70px;
+} */
+input[type=text],
+input[type=password]
+{
+    width:350px;
+    height:30px;
+    margin-bottom:28px;
+}
+.btns
+{
+    text-align: center;
+    margin-top: 70px;
+}
+.btn
+{
+    background-color: plum;
+    color: white;
+    border: none;
+    padding: 20px 30px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.btn:hover
+{
+    background-color: rgb(153, 102, 204);
+}

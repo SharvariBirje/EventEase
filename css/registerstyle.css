@@ -1,0 +1,173 @@
+body
+{
+    background-image: url(loginbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.full {
+	width: 80%;
+    display: grid;
+	grid-template-columns: 3fr 2fr;
+    /* margin: auto; */
+    margin: 65px 150px;
+}
+.left 
+{
+	background-image: url(login.jpg);
+    background-size: cover;
+}
+.right 
+{
+	padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+.register
+{
+    padding: 5px;
+}
+.left h1
+{
+    font-size: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45%;
+    color: white;
+}
+.left p
+{
+    font-size: 28px;
+    text-align: center;
+    color: white;
+}
+.register h1
+{
+    text-align: center;
+    font-size: 60px;
+}
+input[type=text],
+input[type=password],
+input[type=tel],
+input[type=email]
+{
+    width:350px;
+    height:30px;
+    margin-bottom:20px;
+}
+.details
+{
+    margin-left: 50px;
+}
+.btns
+{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn
+{
+    background-color: plum;
+    color: white;
+    border: none;
+    padding: 20px 30px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.btn:hover
+{
+    background-color: rgb(153, 102, 204);
+}
+
+
+/* update */
+
+/* menubutton */
+.buttonss 
+{
+    display: inline-block;
+    padding: 11px 18px;
+    margin: 5px;
+    text-decoration: none;
+    color: #fff;
+    background: rgba(200, 150, 250, 0.5);
+    border: 1px solid rgba(200, 150, 250, 0.5);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    font-size: 18px;
+}
+
+.buttonss:hover 
+{
+    background: #da8fed;
+    border-color: #da8fed;
+}
+
+/* updatebutton */
+.btnsss  
+{
+    padding: 15px 18px;
+    margin: 3px;
+    color: white;
+    background:rgba(200, 150, 250, 0.5);
+    border: 1px solid rgba(200, 150, 250, 0.5);;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.btnsss:hover
+{
+    background: #da8fed;
+    border-color: #da8fed;
+}
+
+.whole
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.updatedetails
+{
+    width: 400px;
+    height: 500px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #da8fed;
+    border-radius: 5px;
+    text-align: left;
+    background: rgba(204, 163, 246, 0.3);;
+    line-height: 30px;
+    box-shadow: 2px 3px 15px gray;
+}
+
+h1
+{
+    font-size: 40px;
+    text-align: center;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+/* display */
+.msg 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+.message 
+{
+    text-align: center;
+    font-size: 24px;
+}
+  

@@ -1,0 +1,144 @@
+.bigright 
+{
+    width: 80%;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    margin: auto;
+}
+
+.bigleft 
+{
+    width: 80%;
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    margin: auto;
+}
+
+/* birthday */
+.bleft
+{
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+    font-size: 1.2rem;
+    margin-top: 25px;
+    font-style: italic;
+}    
+
+.bright
+{
+    padding: 20px;
+}
+
+/* wedding */
+.wleft
+{
+    padding: 10px;
+}    
+
+.wright
+{
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+    font-size: 1.2rem;
+    margin-top: 25px;
+    font-style: italic;
+}
+
+.slider
+{
+    width: 80%;
+    height: 400px;
+    margin-bottom: 40px;
+}
+
+/* birthday */
+.bgolden
+{
+    width: 80%;
+    height: 400px;
+    background-image: url(bday1.jpg);
+    background-size: 100% 100%;
+    margin: 3rem;
+    margin-left: 12rem;
+    box-shadow: 2px 3px 15px 5px black;
+    animation: slider1 16s infinite ease-in-out;
+}
+
+@keyframes slider1
+{
+    0%{background-image: url(bday1.jpg);}
+    25%{background-image: url(bday2.jpg);}
+    50%{background-image: url(bday3.jpg);}
+    75%{background-image: url(bday4.jpg);}
+}
+
+/* wedding */
+.wgolden
+{
+    width: 80%;
+    height: 400px;
+    background-image: url(wedding1.jpeg);
+    background-size: 100% 100%;
+    margin: 3rem;
+    box-shadow: 2px 3px 15px 5px black;
+    animation: slider2 16s infinite ease-in-out;
+}
+
+@keyframes slider2 
+{
+    0%{background-image: url(wedding1.jpeg);}
+    25%{background-image: url(wedding2.jpg);}
+    50%{background-image: url(wedding3.jpeg);}
+    75%{background-image: url(wedding4.jpg);}
+}
+
+/* baby shower */
+.bygolden
+{
+    width: 80%;
+    height: 400px;
+    background-image: url(baby1.jpg);
+    background-size: 100% 100%;
+    margin: 3rem;
+    margin-left: 12rem;
+    box-shadow: 2px 3px 15px 5px black;
+    animation: slider3 16s infinite ease-in-out;
+}
+
+@keyframes slider3
+{
+    0%{background-image: url(baby1.jpg);}
+    25%{background-image: url(baby2.jpg);}
+    50%{background-image: url(baby3.jpg);}
+    75%{background-image: url(baby4.jpg);}
+}
+
+.rght
+{
+    margin-top: 10px;
+    margin-left: 17rem;
+    font-size: 2.5rem;
+}
+
+.lft
+{
+    margin-top: 10px;
+    margin-left: 7rem;
+    font-size: 2.5rem;
+}
+
+.babyrght
+{
+    margin-top: 10px;
+    margin-left: 14rem;
+    font-size: 2.5rem;
+}
+
+.booking
+{
+    margin-top: 10px;
+    margin-left: 7rem;
+    font-size: 1.4rem;
+}
