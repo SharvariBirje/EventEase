@@ -38,6 +38,9 @@ Event Management Website
 # Event Page
 ![events](https://github.com/SharvariBirje/EventEase/assets/158808202/185f8f50-a000-45e4-8ced-3729e2c8b281)
 
+# Adding Event
+![add_event](https://github.com/SharvariBirje/EventEase/assets/158808202/203a8d8a-f43c-4086-947e-9bd8a8e70045)
+
 # Wishlist
 ![wishlist](https://github.com/SharvariBirje/EventEase/assets/158808202/e2767127-2969-4275-8825-f32266b3c916)
 
